@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestionEmploye.DataAccess\GestionEmploye.DataAccess.csproj" />
+    <ProjectReference Include="..\GestionEmploye.EFcoreDemo\GestionEmploye.EFcoreDemo.csproj" />
+    <ProjectReference Include="..\GestionEmploye.ViewModels\GestionEmploye.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

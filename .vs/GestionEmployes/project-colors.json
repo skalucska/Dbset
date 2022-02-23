@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62d1abc5-70fe-40a0-af6d-6ccdb8673850": {
+      "ProjectGuid": "62d1abc5-70fe-40a0-af6d-6ccdb8673850",
+      "DisplayName": "GestionEmploye.WPF",
+      "ColorIndex": 0
+    },
+    "68ae4701-9327-4223-b48b-2d435b428dd4": {
+      "ProjectGuid": "68ae4701-9327-4223-b48b-2d435b428dd4",
+      "DisplayName": "GestionEmploye.ViewModels",
+      "ColorIndex": 1
+    },
+    "c975090a-4418-4ccc-b933-e8f15be2be95": {
+      "ProjectGuid": "c975090a-4418-4ccc-b933-e8f15be2be95",
+      "DisplayName": "GestionEmploye.Common",
+      "ColorIndex": 2
+    },
+    "144558fd-bcf4-490f-83bc-e8324cbeaddd": {
+      "ProjectGuid": "144558fd-bcf4-490f-83bc-e8324cbeaddd",
+      "DisplayName": "GestionEmploye.DataAccess",
+      "ColorIndex": 3
+    },
+    "0ba59a35-13b4-4abf-830e-79d6465c4d6e": {
+      "ProjectGuid": "0ba59a35-13b4-4abf-830e-79d6465c4d6e",
+      "DisplayName": "GestionEmploye.EFcoreDemo",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

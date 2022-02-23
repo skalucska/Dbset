@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+Y+AMwIXN/uJk8kWS7awMYbk56P9Oa/bw9fqwkcH4yQeQzTcUVnmVtLU9cd6iuv273ZxnaEHN2V6/3AuT9tRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.WinUI\\GestionEmploye.WinUI (Package)\\GestionEmploye.WinUI (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skalu\\.nuget\\packages\\microsoft.projectreunion\\0.8.4\\microsoft.projectreunion.0.8.4.nupkg.sha512",
+    "C:\\Users\\skalu\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.8.4\\microsoft.projectreunion.dwrite.0.8.4.nupkg.sha512",
+    "C:\\Users\\skalu\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.8.4\\microsoft.projectreunion.foundation.0.8.4.nupkg.sha512",
+    "C:\\Users\\skalu\\.nuget\\packages\\microsoft.projectreunion.interactiveexperiences\\0.8.4\\microsoft.projectreunion.interactiveexperiences.0.8.4.nupkg.sha512",
+    "C:\\Users\\skalu\\.nuget\\packages\\microsoft.projectreunion.winui\\0.8.4\\microsoft.projectreunion.winui.0.8.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'Microsoft.ProjectReunion.InteractiveExperiences 0.8.4' a été restauré en utilisant 'net5.0-windows10.0.19041, .NETCoreApp,Version=v3.1, .NETCoreApp,Version=v3.0, .NETCoreApp,Version=v2.0, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, net6.0-windows10.0.19041, .NETFramework,Version=v4.6.1' au lieu du framework cible du projet 'UAP,Version=v10.0.17763'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "Microsoft.ProjectReunion.InteractiveExperiences",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763"
+      ]
+    }
+  ]
+}

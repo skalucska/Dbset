@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GestionEmploye.WinForms/1.0.0": {
+        "dependencies": {
+          "GestionEmploye.DataAccess": "1.0.0",
+          "GestionEmploye.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "GestionEmploye.WinForms.dll": {}
+        }
+      },
+      "GestionEmploye.Common/1.0.0": {
+        "runtime": {
+          "GestionEmploye.Common.dll": {}
+        }
+      },
+      "GestionEmploye.DataAccess/1.0.0": {
+        "dependencies": {
+          "GestionEmploye.Common": "1.0.0"
+        },
+        "runtime": {
+          "GestionEmploye.DataAccess.dll": {}
+        }
+      },
+      "GestionEmploye.ViewModels/1.0.0": {
+        "dependencies": {
+          "GestionEmploye.Common": "1.0.0"
+        },
+        "runtime": {
+          "GestionEmploye.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestionEmploye.WinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestionEmploye.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestionEmploye.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestionEmploye.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
